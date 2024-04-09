@@ -1,0 +1,36 @@
+
+.container {
+    display: flex;
+}
+.first_number {
+    background-color: red;
+}
+.sign {
+    background-color: rgb(0, 255, 64);
+}
+.second_number {
+    background-color: rgb(0, 89, 255);
+}
+.first_number, .sign, .second_number {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    p {
+        font-size: 2rem;
+     
+    }
+ 
+}   
+ 
+  
+ 
+
+
+
+   
+  
+    
+
